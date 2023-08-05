@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    // "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
+    "Orta.vscode-jest",
+    "yoavbls.pretty-ts-errors",
+    "ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "dsznajder.es7-react-js-snippets",
+    "GitHub.copilot",
+    "ms-vscode.vscode-typescript-next",
+    "yzhang.markdown-all-in-one",
+    "burkeholland.simple-react-snippets",
+    "redhat.vscode-yaml",
+  ]
+}
